@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     # -----jwt------
     'rest_framework_simplejwt',
     # ------my app ---------
+    'apps'
 
 ]
 
